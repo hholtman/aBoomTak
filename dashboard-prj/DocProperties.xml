@@ -1277,7 +1277,7 @@
   <EnableDynamicDataUpdate>false</EnableDynamicDataUpdate>
   <LogfileIOMode>LOGFILE_CLASSIC_OVERWRITE</LogfileIOMode>
   <UseAjaxUI>false</UseAjaxUI>
-  <ClearedForNamedUserDocumentCal>false</ClearedForNamedUserDocumentCal>
+  <ClearedForNamedUserDocumentCal>true</ClearedForNamedUserDocumentCal>
   <NotClearedForNamedUserDocumentCalReason></NotClearedForNamedUserDocumentCalReason>
   <UseMetaSectionAccessNames>true</UseMetaSectionAccessNames>
   <SelectionAlpha>255</SelectionAlpha>
